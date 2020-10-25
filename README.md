@@ -1,16 +1,17 @@
-### Hi there 👋
+# Apresentação
 
-<!--
-**paulohbsimoes/paulohbsimoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, eu sou Paulo Simões, tenho 24 anos e moro no Espírito Santo. <br/>
+Sou apaixonado por música e tecnologia e atualmente estudo desenvolvimento web na Trybe. <br/>
+Estou sempre a procura de oportunidades para melhorar como pessoa e profissional. <br/>
+Posso ser encontrado [aqui](https://www.linkedin.com/in/paulohbsimoes/) também. <br/>
+Segue uma lista com algumas de minhas habilidades:
 
-Here are some ideas to get you started:
+## Algumas de minhas habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Tecnologia | Experiência |
+| - | - |
+| HTML, CSS | :star: :star: :star: :star: | 
+| JavaScript | :star: :star: :star: :star: |
+| Git e GitHub | :star: :star: :star: |
+| NodeJS | :star: :star: :star: |
+| React | :star: :star: :star: |
