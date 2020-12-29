@@ -5,7 +5,7 @@ Sou apaixonado por música e tecnologia e atualmente estudo Desenvolvimento Web 
 Estou sempre à procura de oportunidades para melhorar como pessoa e profissional.<br/>
 Posso ser encontrado [aqui](https://www.linkedin.com/in/paulohbsimoes/) também.<br/>
 
-## Algumas de minhas habilidades
+## Habilidades
 
 | Tecnologia | Experiência |
 | - | - |
